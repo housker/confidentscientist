@@ -2,9 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://housker.github.io/confidentscientist/</loc>
+    <loc>https://housker.github.io/confidentscientist/no/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://housker.github.io/confidentscientist/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -15,15 +20,15 @@
                 hreflang="no"
                 href="https://housker.github.io/confidentscientist/no/"
                 />
+  </url><url>
+    <loc>https://housker.github.io/confidentscientist/no/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://housker.github.io/confidentscientist/"
+                href="https://housker.github.io/confidentscientist/categories/"
                 />
-  </url><url>
-    <loc>https://housker.github.io/confidentscientist/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -34,15 +39,15 @@
                 hreflang="no"
                 href="https://housker.github.io/confidentscientist/no/categories/"
                 />
+  </url><url>
+    <loc>https://housker.github.io/confidentscientist/no/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://housker.github.io/confidentscientist/categories/"
+                href="https://housker.github.io/confidentscientist/tags/"
                 />
-  </url><url>
-    <loc>https://housker.github.io/confidentscientist/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -52,11 +57,6 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://housker.github.io/confidentscientist/no/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://housker.github.io/confidentscientist/tags/"
                 />
   </url>
 </urlset>

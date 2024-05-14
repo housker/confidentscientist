@@ -12,6 +12,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="no"
+                href="https://housker.github.io/confidentscientist/no/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://housker.github.io/confidentscientist/fr/"
                 />
@@ -26,6 +31,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="no"
+                href="https://housker.github.io/confidentscientist/no/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://housker.github.io/confidentscientist/fr/categories/"
                 />
@@ -37,6 +47,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://housker.github.io/confidentscientist/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://housker.github.io/confidentscientist/no/tags/"
                 />
     <xhtml:link
                 rel="alternate"
