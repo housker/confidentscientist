@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ananke No</title>
+    <title>Selvsikker vitenskapsmann</title>
     <link>https://housker.github.io/confidentscientist/no/</link>
-    <description>Recent content on Ananke No</description>
+    <description>Recent content on Selvsikker vitenskapsmann</description>
     <generator>Hugo</generator>
     <language>no</language>
+    <lastBuildDate>Tue, 14 May 2024 11:12:37 -1000</lastBuildDate>
     <atom:link href="https://housker.github.io/confidentscientist/no/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Barns</title>
+      <link>https://housker.github.io/confidentscientist/no/posts/24-05-14/</link>
+      <pubDate>Tue, 14 May 2024 11:12:37 -1000</pubDate>
+      <guid>https://housker.github.io/confidentscientist/no/posts/24-05-14/</guid>
+      <description>En gang kunne vi alle samme språk. Til slutt ble vi for fantastiske, og ble straffet for det.&#xA;Slutten</description>
+    </item>
   </channel>
 </rss>

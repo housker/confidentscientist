@@ -3,8 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://housker.github.io/confidentscientist/</loc>
+    <lastmod>2024-05-14T11:12:37-10:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://housker.github.io/confidentscientist/es/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -21,9 +27,39 @@
                 href="https://housker.github.io/confidentscientist/"
                 />
   </url><url>
+    <loc>https://housker.github.io/confidentscientist/posts/</loc>
+    <lastmod>2024-05-14T11:12:37-10:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://housker.github.io/confidentscientist/es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://housker.github.io/confidentscientist/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://housker.github.io/confidentscientist/no/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://housker.github.io/confidentscientist/posts/"
+                />
+  </url><url>
     <loc>https://housker.github.io/confidentscientist/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://housker.github.io/confidentscientist/es/categories/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -43,6 +79,11 @@
     <loc>https://housker.github.io/confidentscientist/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://housker.github.io/confidentscientist/es/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
