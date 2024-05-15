@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Científico confiado</title>
-    <link>https://housker.github.io/confidentscientist/es/posts/</link>
+    <link>http://localhost:1313/confidentscientist/es/posts/</link>
     <description>Recent content in Posts on Científico confiado</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Tue, 14 May 2024 11:12:37 -1000</lastBuildDate>
-    <atom:link href="https://housker.github.io/confidentscientist/es/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/confidentscientist/es/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Babel</title>
-      <link>https://housker.github.io/confidentscientist/es/posts/24-05-14/</link>
+      <link>http://localhost:1313/confidentscientist/es/posts/24-05-14/</link>
       <pubDate>Tue, 14 May 2024 11:12:37 -1000</pubDate>
-      <guid>https://housker.github.io/confidentscientist/es/posts/24-05-14/</guid>
+      <guid>http://localhost:1313/confidentscientist/es/posts/24-05-14/</guid>
       <description>Los compañeros con los que estoy haciendo mi proyecto final quieren dejarlo. Estamos intentando entrenar un LLM para traducir texto, y el conjunto de datos es demasiado grande para que lo maneje nuestra CPU y RAM. No quiero dejar de fumar. Saber qué hacer con grandes conjuntos de datos es enormemente importante. Les daré mi opinión de que deberían incluir eso en el plan de estudios. Hasta ahora ni el profesor ni los asistentes saben qué hacer, pero estoy seguro de que podemos resolverlo.</description>
     </item>
   </channel>
