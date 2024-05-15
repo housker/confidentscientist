@@ -9,11 +9,11 @@
     <lastBuildDate>Tue, 14 May 2024 11:12:37 -1000</lastBuildDate>
     <atom:link href="https://housker.github.io/confidentscientist/es/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>graneros</title>
+      <title>Babel</title>
       <link>https://housker.github.io/confidentscientist/es/posts/24-05-14/</link>
       <pubDate>Tue, 14 May 2024 11:12:37 -1000</pubDate>
       <guid>https://housker.github.io/confidentscientist/es/posts/24-05-14/</guid>
-      <description>Érase una vez todos conocíamos el mismo idioma. Al final nos volvimos demasiado sorprendentes y nos castigaron por ello.&#xA;El fin</description>
+      <description>Los compañeros con los que estoy haciendo mi proyecto final quieren dejarlo. Estamos intentando entrenar un LLM para traducir texto, y el conjunto de datos es demasiado grande para que lo maneje nuestra CPU y RAM. No quiero dejar de fumar. Saber qué hacer con grandes conjuntos de datos es enormemente importante. Les daré mi opinión de que deberían incluir eso en el plan de estudios. Hasta ahora ni el profesor ni los asistentes saben qué hacer, pero estoy seguro de que podemos resolverlo.</description>
     </item>
   </channel>
 </rss>

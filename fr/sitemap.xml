@@ -8,13 +8,18 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="no"
-                href="https://housker.github.io/confidentscientist/no/posts/24-05-14/"
+                hreflang="en"
+                href="https://housker.github.io/confidentscientist/posts/24-05-14/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
                 href="https://housker.github.io/confidentscientist/es/posts/24-05-14/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://housker.github.io/confidentscientist/no/posts/24-05-14/"
                 />
     <xhtml:link
                 rel="alternate"

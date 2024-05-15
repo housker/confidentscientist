@@ -9,11 +9,11 @@
     <lastBuildDate>Tue, 14 May 2024 11:12:37 -1000</lastBuildDate>
     <atom:link href="https://housker.github.io/confidentscientist/no/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Barns</title>
+      <title>Babel</title>
       <link>https://housker.github.io/confidentscientist/no/posts/24-05-14/</link>
       <pubDate>Tue, 14 May 2024 11:12:37 -1000</pubDate>
       <guid>https://housker.github.io/confidentscientist/no/posts/24-05-14/</guid>
-      <description>En gang kunne vi alle samme språk. Til slutt ble vi for fantastiske, og ble straffet for det.&#xA;Slutten</description>
+      <description>Klassekameratene jeg gjør sluttprosjektet mitt med, ønsker å slutte. Vi prøver å trene en LLM til å oversette tekst, og datasettet er for stort til at vår CPU og RAM kan håndtere. Jeg vil ikke slutte. Å vite hva man skal gjøre med store datasett er enormt viktig. Jeg skal gi tilbakemelding om at de burde ha det med i læreplanen. Så langt vet verken læreren eller TA-ene hva de skal gjøre, men jeg er sikker på at vi kan finne ut av det.</description>
     </item>
   </channel>
 </rss>

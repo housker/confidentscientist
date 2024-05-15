@@ -6,7 +6,14 @@
     <description>Recent content in Posts on Confident Scientist</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 11:12:37 -1000</lastBuildDate>
     <atom:link href="https://housker.github.io/confidentscientist/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Babel</title>
+      <link>https://housker.github.io/confidentscientist/posts/24-05-14/</link>
+      <pubDate>Tue, 14 May 2024 11:12:37 -1000</pubDate>
+      <guid>https://housker.github.io/confidentscientist/posts/24-05-14/</guid>
+      <description>The classmates I&amp;rsquo;m doing my final project with want to quit. We&amp;rsquo;re trying to train an LLM to translate text, and the dataset it too large for our CPU and RAM to handle. I don&amp;rsquo;t want to quit. Knowing what to do with large data sets is enormously important. I&amp;rsquo;ll give feedback that they ought to include that in the curriculum. So far neither the teacher nor the TAs know what to do, but I&amp;rsquo;m sure we can figure it out.</description>
+    </item>
   </channel>
 </rss>
