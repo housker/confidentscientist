@@ -23,6 +23,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="https://housker.github.io/confidentscientist/ar/posts/24-05-14/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="es"
                 href="https://housker.github.io/confidentscientist/es/posts/24-05-14/"
                 />
@@ -48,6 +53,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="https://housker.github.io/confidentscientist/ar/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="es"
                 href="https://housker.github.io/confidentscientist/es/"
                 />
@@ -60,6 +70,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://housker.github.io/confidentscientist/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://housker.github.io/confidentscientist/ar/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -87,6 +102,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="https://housker.github.io/confidentscientist/ar/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://housker.github.io/confidentscientist/fr/categories/"
                 />
@@ -108,6 +128,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://housker.github.io/confidentscientist/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://housker.github.io/confidentscientist/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
