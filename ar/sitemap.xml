@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://housker.github.io/confidentscientist/ar/posts/</loc>
-    <lastmod>2024-05-14T11:12:37-10:00</lastmod>
+    <lastmod>2024-05-15T14:19:21-10:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -33,7 +33,7 @@
                 />
   </url><url>
     <loc>https://housker.github.io/confidentscientist/ar/</loc>
-    <lastmod>2024-05-14T11:12:37-10:00</lastmod>
+    <lastmod>2024-05-15T14:19:21-10:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -60,6 +60,36 @@
                 rel="alternate"
                 hreflang="ar"
                 href="https://housker.github.io/confidentscientist/ar/"
+                />
+  </url><url>
+    <loc>https://housker.github.io/confidentscientist/ar/posts/24-05-15/</loc>
+    <lastmod>2024-05-15T14:19:21-10:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://housker.github.io/confidentscientist/posts/24-05-15/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://housker.github.io/confidentscientist/fr/posts/24-05-15/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://housker.github.io/confidentscientist/es/posts/24-05-15/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://housker.github.io/confidentscientist/no/posts/24-05-15/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://housker.github.io/confidentscientist/ar/posts/24-05-15/"
                 />
   </url><url>
     <loc>https://housker.github.io/confidentscientist/ar/posts/24-05-14/</loc>
